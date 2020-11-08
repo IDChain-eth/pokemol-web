@@ -55,7 +55,7 @@ export const supportedChains = {
     api_url: 'https://vncmvrainc.execute-api.us-east-1.amazonaws.com/idchain',
     daohaus_url: 'https://idchain.daohaus.club',
     subgraph_url:
-      'https://subgraph.idchain.daohaus.club/subgraphs/name/odyssy-automaton/daohaus-idchain',
+      'https://graph.idchain.one/subgraphs/name/odyssy-automaton/daohaus-idchain',
     transmutation_subgraph_url:
       'https://api.thegraph.com/subgraphs/name/odyssy-automaton/daohaus-transmutation',
   },
